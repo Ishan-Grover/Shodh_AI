@@ -20,7 +20,6 @@ The project is divided into four main tasks: **EDA & Preprocessing**, **Predicti
 ## 🗂️ Repository Structure
 
 Shodh_AI/
-│
 ├── Shodh_AI_Ishan.ipynb # Main Jupyter notebook containing the full workflow
 ├── Shodh_AI_Report.pdf # 3-page analysis report
 ├── Ishan_Grover_Thapar_Institute_Of_Engineering_And_Technology_Resume.pdf # Resume file
@@ -141,16 +140,6 @@ Offline RL (CQL) | Maximize long-term profit | Estimated Policy Value | Learns o
 
 - AUC/F1: Measure model’s discrimination power (predictive accuracy).  
 - Estimated Policy Value: Measures expected financial return under a learned policy.  
-
----
-
-## 📊 Visual Outputs
-
-ROC Curve Comparison  
-(results/plots/roc_curve.png)
-
-Reward Distribution (RL Agent)  
-(results/plots/reward_distribution.png)
 
 ---
 
