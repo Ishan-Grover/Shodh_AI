@@ -20,9 +20,13 @@ The project is divided into four main tasks: **EDA & Preprocessing**, **Predicti
 ## 🗂️ Repository Structure
 
 Shodh_AI
+
 Shodh_AI_Ishan.ipynb # Main Jupyter notebook containing the full workflow
+
 Shodh_AI_Report.pdf # 3-page analysis report
+
 Ishan_Grover_Thapar_Institute_Of_Engineering_And_Technology_Resume.pdf # Resume file
+
 README.md # This guide
 ---
 
@@ -169,7 +173,9 @@ Final-Year B.E. in Electrical & Computer Engineering
 Thapar Institute of Engineering and Technology  
 
 📧 Email: ishangrover.21@outlook.com
+
 💼 LinkedIn: https://www.linkedin.com/in/ishan-grover-33b9b6314/
+
 🐙 GitHub: https://github.com/Ishan-Grover
 
 ---
