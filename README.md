@@ -19,11 +19,11 @@ The project is divided into four main tasks: **EDA & Preprocessing**, **Predicti
 
 ## 🗂️ Repository Structure
 
-Shodh_AI/
-├── Shodh_AI_Ishan.ipynb # Main Jupyter notebook containing the full workflow
-├── Shodh_AI_Report.pdf # 3-page analysis report
-├── Ishan_Grover_Thapar_Institute_Of_Engineering_And_Technology_Resume.pdf # Resume file
-└── README.md # This guide
+Shodh_AI
+Shodh_AI_Ishan.ipynb # Main Jupyter notebook containing the full workflow
+Shodh_AI_Report.pdf # 3-page analysis report
+Ishan_Grover_Thapar_Institute_Of_Engineering_And_Technology_Resume.pdf # Resume file
+README.md # This guide
 ---
 
 ## ⚙️ Setup Instructions
